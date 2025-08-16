@@ -28,6 +28,18 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot designed to a
 
 ---
 
+## ⚙️ Ollama Installation (Required)
+
+This project uses **Ollama** to run the Mistral model locally.  
+Follow these steps to install and set up Ollama:
+
+### 1. Install Ollama
+- **macOS / Linux**:  
+  Download and install from [Ollama official site](https://ollama.com/download)  
+  or run:  
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+
 ##  Installation & Setup
 
 1. **Clone the repository**
