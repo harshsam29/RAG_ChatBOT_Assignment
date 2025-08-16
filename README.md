@@ -84,9 +84,31 @@ Once the app launches in your browser:
 
 ##  Example Queries
 
+
 - “What is the main objective of the uploaded document?”  
 - “What entities are you contracting with depending on your region?”  
 - “What is the legal implication of accepting the eBay User Agreement?”
 
----
+
+## DEMO Video LInk
+
+
+- “What is the main objective of the uploaded document?”  
+- “What entities are you contracting with depending on your region?”  
+- “What is the legal implication of accepting the eBay User Agreement?”
+
+## 🎥 Demo Video  
+
+Check out the live demo here:  
+
+[![Watch Demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pUH-5rX2XxE&t=98s)  
+
+This video walks through:  
+- Cloning the repo and setting up the environment  
+- Uploading a document and processing it (chunking, embedding, indexing)
+- Demonstrating streaming responses from the chatbot  
+- Observing how source documents are displayed after each answer  
+- Demonstrating streaming responses from the chatbot  
+- Observing how source documents are displayed after each answer  
+
 
